@@ -1,11 +1,10 @@
 <h1 align="center">Hi there 👋, I'm John Chung!</h1>
-<h2 align="center">🌱 I’m currently studying in Swinburne University of Technology Sarawak (SUTS)</h2>
-<h2 align="center">🖥️ I’ve completed Bachelor of Computer Science, Majoring in Software Development and Co-majoring in Cybersecurity in SUTS</h2>
-<h2 align="center">🐱‍💻 Find my cybersecurity alter ego at [@DeathReaper-22](https://github.com/DeathReaper-22)</h2>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=johnchung2002&style=plastic"></p>
 
-## <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="40px"/> My Contacts
-
+## <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="40px"/> Who am I?
+- 🌱 I’m currently studying in Swinburne University of Technology Sarawak (SUTS)
+- 🖥️ I’ve completed Bachelor of Computer Science, Majoring in Software Development and Co-majoring in Cybersecurity in SUTS
+- 🐱‍💻 Find my cybersecurity alter ego at [@DeathReaper-22](https://github.com/DeathReaper-22)
 - Linkedln : <a href="https://www.linkedin.com/in/john-chung-za" target="_blank">https://www.linkedin.com/in/john-chung-za</a>
 - Email : <a href="mailto:johnchung@cloudtechdev.com" target="_blank">johnchung@cloudtechdev.com</a>
 
