@@ -44,15 +44,13 @@
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 84.7 kB Used in GitHub's Storage 
  > 
-> 🏆 125 Contributions in the Year 2024
+> 🏆 126 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,42 +58,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                391 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-🌆 Daytime                1158 commits        ████████░░░░░░░░░░░░░░░░░   30.62 % 
-🌃 Evening                1796 commits        ████████████░░░░░░░░░░░░░   47.49 % 
-🌙 Night                  437 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   612 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.18 % 
-Tuesday                  607 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-Wednesday                434 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-Thursday                 732 commits         █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Friday                   299 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Saturday                 781 commits         █████░░░░░░░░░░░░░░░░░░░░   20.65 % 
-Sunday                   317 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Singapore
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -113,5 +75,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 17/03/2024 14:12:53 UTC
+ Last Updated on 17/03/2024 16:05:16 UTC
 <!--END_SECTION:waka-->
