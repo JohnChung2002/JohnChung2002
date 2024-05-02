@@ -44,15 +44,13 @@
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-15%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 84.8 kB Used in GitHub's Storage 
- > 
-> 🏆 147 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -114,5 +112,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 02/05/2024 04:08:46 UTC
+ Last Updated on 02/05/2024 16:08:37 UTC
 <!--END_SECTION:waka-->
