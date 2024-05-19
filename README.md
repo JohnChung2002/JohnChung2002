@@ -52,6 +52,8 @@
 
 > 📦 84.8 kB Used in GitHub's Storage 
  > 
+> 🏆 183 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 8 Public Repositories 
@@ -85,14 +87,14 @@ Sunday                   324 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               5 hrs 20 mins       █████████████████████████   98.14 % 
-JSON                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+TypeScript               4 hrs 35 mins       █████████████████████████   98.32 % 
+JSON                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 26 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 40 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 26 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -112,5 +114,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 18/05/2024 16:05:06 UTC
+ Last Updated on 19/05/2024 04:09:36 UTC
 <!--END_SECTION:waka-->
