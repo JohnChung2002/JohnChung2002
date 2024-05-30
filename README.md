@@ -87,14 +87,13 @@ Sunday                   324 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               1 hr 15 mins        ████████████████░░░░░░░░░   64.58 % 
-JSON                     41 mins             █████████░░░░░░░░░░░░░░░░   35.42 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 56 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -114,5 +113,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2024 16:09:09 UTC
+ Last Updated on 30/05/2024 04:09:54 UTC
 <!--END_SECTION:waka-->
