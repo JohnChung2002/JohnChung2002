@@ -44,15 +44,13 @@
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20hrs%2043%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 84.8 kB Used in GitHub's Storage 
- > 
-> 🏆 202 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -87,13 +85,14 @@ Sunday                   324 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Bash                     13 mins             ███████████████████░░░░░░   77.09 % 
+YAML                     3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  17 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+WSL                      17 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,5 +112,5 @@ Kotlin                   1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 20/06/2024 16:10:37 UTC
+ Last Updated on 21/06/2024 04:09:32 UTC
 <!--END_SECTION:waka-->
