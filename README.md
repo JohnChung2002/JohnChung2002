@@ -44,7 +44,7 @@
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -87,7 +87,8 @@ Sunday                   330 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   39 mins             █████████████████████████   100.00 % 
+Python                   39 mins             █████████████████████████   99.05 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 
 🔥 Editors: 
 VS Code                  39 mins             █████████████████████████   100.00 % 
@@ -113,5 +114,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2024 16:09:24 UTC
+ Last Updated on 27/10/2024 04:11:39 UTC
 <!--END_SECTION:waka-->
