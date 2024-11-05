@@ -44,11 +44,15 @@
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-109%20hrs%2030%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 84.9 kB Used in GitHub's Storage 
+ > 
+> 🏆 273 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -111,5 +115,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 04/11/2024 16:11:01 UTC
+ Last Updated on 05/11/2024 04:11:29 UTC
 <!--END_SECTION:waka-->
