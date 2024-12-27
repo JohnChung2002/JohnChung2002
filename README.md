@@ -44,13 +44,15 @@
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 85.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 279 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,14 +87,14 @@ Sunday                   329 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-TypeScript               2 mins              ██████████████████░░░░░░░   71.04 % 
-Python                   1 min               ███████░░░░░░░░░░░░░░░░░░   28.96 % 
+Python                   34 mins             ███████████████████████░░   91.91 % 
+TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
 
 🔥 Editors: 
-VS Code                  4 mins              █████████████████████████   100.00 % 
+VS Code                  37 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  4 mins              █████████████████████████   100.00 % 
+Windows                  37 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -112,5 +114,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 26/12/2024 16:10:49 UTC
+ Last Updated on 27/12/2024 04:11:46 UTC
 <!--END_SECTION:waka-->
