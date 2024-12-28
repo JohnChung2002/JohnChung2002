@@ -52,6 +52,8 @@
 
 > 📦 85.1 kB Used in GitHub's Storage 
  > 
+> 🏆 279 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 9 Public Repositories 
@@ -85,14 +87,13 @@ Sunday                   329 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Singapore
 
 💬 Programming Languages: 
-Python                   34 mins             ███████████████████████░░   91.91 % 
-TypeScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.09 % 
+Python                   32 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  37 mins             █████████████████████████   100.00 % 
+VS Code                  32 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  37 mins             █████████████████████████   100.00 % 
+Windows                  32 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -112,5 +113,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 27/12/2024 16:09:59 UTC
+ Last Updated on 28/12/2024 04:10:50 UTC
 <!--END_SECTION:waka-->
