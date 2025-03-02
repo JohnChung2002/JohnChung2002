@@ -52,8 +52,6 @@
 
 > 📦 85.1 kB Used in GitHub's Storage 
  > 
-> 🏆 3 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 10 Public Repositories 
@@ -117,5 +115,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2025 04:10:51 UTC
+ Last Updated on 02/03/2025 16:09:09 UTC
 <!--END_SECTION:waka-->
