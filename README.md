@@ -44,7 +44,7 @@
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-284%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -117,5 +117,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 26/05/2025 04:16:43 UTC
+ Last Updated on 26/05/2025 16:11:53 UTC
 <!--END_SECTION:waka-->
