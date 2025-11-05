@@ -44,13 +44,13 @@
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-374%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 93.6 kB Used in GitHub's Storage 
+> 📦 93.7 kB Used in GitHub's Storage 
  > 
 > 🏆 86 Contributions in the Year 2025
  > 
@@ -117,5 +117,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 05/11/2025 04:14:21 UTC
+ Last Updated on 05/11/2025 16:13:09 UTC
 <!--END_SECTION:waka-->
