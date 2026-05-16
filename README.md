@@ -44,6 +44,8 @@
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-448%20hrs%2059%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -111,5 +113,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 15/05/2026 17:20:47 UTC
+ Last Updated on 16/05/2026 06:15:20 UTC
 <!--END_SECTION:waka-->
