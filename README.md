@@ -44,6 +44,8 @@
 | ------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------ |
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-450%20hrs%2012%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -58,6 +60,42 @@
  > 
 > 🔑 13 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.57 % 
+🌆 Daytime                1253 commits        ████████░░░░░░░░░░░░░░░░░   31.22 % 
+🌃 Evening                1886 commits        ████████████░░░░░░░░░░░░░   47.00 % 
+🌙 Night                  450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   658 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
+Tuesday                  630 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.70 % 
+Wednesday                467 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+Thursday                 782 commits         █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
+Friday                   334 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Saturday                 806 commits         █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Sunday                   336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Singapore
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -75,5 +113,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 28/05/2026 18:31:26 UTC
+ Last Updated on 29/05/2026 07:45:16 UTC
 <!--END_SECTION:waka-->
