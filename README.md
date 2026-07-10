@@ -4,7 +4,9 @@
 ## <img src="https://media.giphy.com/media/ZEUODEtQiUZWGg6IHR/giphy.gif" width="40px"/> Who am I?
 - 🌱 I’m currently studying in Swinburne University of Technology Sarawak (SUTS)
 - 🖥️ I’ve completed Bachelor of Computer Science, Majoring in Software Development and Co-majoring in Cybersecurity in SUTS
+- 🖥️ I’ve also completed Master of Information and Communication Technologies (Research), focused on Cybersecurity in SUTS
 - 🐱‍💻 Find my cybersecurity alter ego at [@DeathReaper-22](https://github.com/DeathReaper-22)
+- 👨🏻‍💻 I'm open to contract and freelance works!
 - Linkedln : <a href="https://www.linkedin.com/in/john-chung-za" target="_blank">https://www.linkedin.com/in/john-chung-za</a>
 - Email : <a href="mailto:johnchung@cloudtechdev.com" target="_blank">johnchung@cloudtechdev.com</a>
 
