@@ -56,7 +56,7 @@
 
 > 📦 94.3 kB Used in GitHub's Storage 
  > 
-> 🏆 6 Contributions in the Year 2026
+> 🏆 14 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -67,21 +67,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-🌆 Daytime                1258 commits        ████████░░░░░░░░░░░░░░░░░   31.31 % 
-🌃 Evening                1886 commits        ████████████░░░░░░░░░░░░░   46.94 % 
-🌙 Night                  450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
+🌞 Morning                424 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
+🌆 Daytime                1266 commits        ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌃 Evening                1886 commits        ████████████░░░░░░░░░░░░░   46.85 % 
+🌙 Night                  450 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   658 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Tuesday                  630 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Wednesday                471 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-Thursday                 782 commits         █████░░░░░░░░░░░░░░░░░░░░   19.46 % 
-Friday                   335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 % 
-Saturday                 806 commits         █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
-Sunday                   336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Monday                   666 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
+Tuesday                  630 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.65 % 
+Wednesday                471 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+Thursday                 782 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+Friday                   335 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.32 % 
+Saturday                 806 commits         █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Sunday                   336 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 ```
 
 
@@ -109,11 +109,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-TypeScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
-PHP                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
-C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+Python                   9 repos             █████████░░░░░░░░░░░░░░░░   36.00 % 
+TypeScript               7 repos             ███████░░░░░░░░░░░░░░░░░░   28.00 % 
+PHP                      4 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+Jupyter Notebook         1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
 
 
@@ -123,5 +123,5 @@ C++                      1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/JohnChung2002/JohnChung2002/main/assets/bar_graph.png)
 
 
- Last Updated on 13/09/2026 18:24:28 UTC
+ Last Updated on 14/09/2026 09:20:27 UTC
 <!--END_SECTION:waka-->
